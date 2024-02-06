@@ -1,0 +1,14 @@
+C:\Users\finla\source\repos\RealProject\RealProject\bin\Debug\RealProject.exe.config
+C:\Users\finla\source\repos\RealProject\RealProject\bin\Debug\RealProject.exe
+C:\Users\finla\source\repos\RealProject\RealProject\bin\Debug\RealProject.pdb
+C:\Users\finla\source\repos\RealProject\RealProject\bin\Debug\RealProject.xml
+C:\Users\finla\source\repos\RealProject\RealProject\obj\Debug\RealProject.vbproj.AssemblyReference.cache
+C:\Users\finla\source\repos\RealProject\RealProject\obj\Debug\RealProject.vbproj.SuggestedBindingRedirects.cache
+C:\Users\finla\source\repos\RealProject\RealProject\obj\Debug\RealProject.Form1.resources
+C:\Users\finla\source\repos\RealProject\RealProject\obj\Debug\RealProject.Resources.resources
+C:\Users\finla\source\repos\RealProject\RealProject\obj\Debug\RealProject.vbproj.GenerateResource.cache
+C:\Users\finla\source\repos\RealProject\RealProject\obj\Debug\RealProject.vbproj.CoreCompileInputs.cache
+C:\Users\finla\source\repos\RealProject\RealProject\obj\Debug\RealProject.exe
+C:\Users\finla\source\repos\RealProject\RealProject\obj\Debug\RealProject.xml
+C:\Users\finla\source\repos\RealProject\RealProject\obj\Debug\RealProject.pdb
+C:\Users\finla\source\repos\RealProject\RealProject\obj\Debug\RealProject.Form2.resources
